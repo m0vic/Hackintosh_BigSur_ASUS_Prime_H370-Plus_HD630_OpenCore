@@ -1,0 +1,2 @@
+# Hackintosh_BigSur_ASUS_Prime_H370-Plus_HD630_OpenCore
+Big Sur Opencore ASUS_Prime_H370-Plus
