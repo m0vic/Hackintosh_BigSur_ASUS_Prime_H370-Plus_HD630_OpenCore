@@ -1108,7 +1108,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C07944108GUKXPG1H</string>
+			<string>xxxxxxxx</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1124,9 +1124,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07ZM0TBJYVX</string>
+			<string>xxxxxxxxx</string>
 			<key>SystemUUID</key>
-			<string>8F8853F2-F579-4268-91F6-133D60D06188</string>
+			<string>xxxxxx-xxxx-xxxx-xxxx-xxxxxx</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
