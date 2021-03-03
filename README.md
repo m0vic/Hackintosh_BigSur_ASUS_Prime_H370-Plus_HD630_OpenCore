@@ -3,18 +3,15 @@ Big Sur Opencore ASUS_Prime_H370-Plus
 
 ======
 OC/Drivers
-AudioDxe.efi
-OpenCanopy.efi
-OpenHfsPlus.efi
-OpenRuntime.efi
-=====
-OS/Kexts
 
 AudioDxe.efi
 OpenCanopy.efi
 OpenHfsPlus.efi
 OpenRuntime.efi
-vim@MacBedroom ~ % ls -1 /Users/vim/efi/EFI/OC/Kexts 
+
+=====
+OC/Kexts 
+
 AppleALC.kext
 AppleMCEReporterDisabler.kext
 Lilu.kext
